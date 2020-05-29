@@ -3,117 +3,142 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Cannis Wing Tung Chan
+    tagline: Product Development
+    avatar: profilepic.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    email:
+    phone:
+    website:  #do not add http://
+    linkedin: chancanniscwt
+    github: chancanniscwt
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: English
+      - idiom: Cantonese
         level: Native
 
-      - idiom: French
-        level: Professional
+      - idiom: English
+        level: Fluent
 
-      - idiom: Spanish
-        level: Professional
+      - idiom: Mandarin
+        level: Fluent
+
+      - idiom: German
+        level: Intermediate (B2)
+
+      - idiom: Polish
+        level: Beginner
 
     interests:
-      - item: Climbing
-        link:
+      - item: Wines & Spirits (WSET Level 3 in Wine & WSET Level 3 in Sake)
+        link: https://www.instagram.com/nerdcafe/
 
-      - item: Snowboarding
-        link:
-
-      - item: Cooking
+      - item: Sourdough Baking
         link:
 
 career-profile:
-    title: Career Profile
+    title: Summary
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I am currently a Knowledge Engineer (Product Development) at Droit Financial Technologies, LLC.
+      With 3 years of experience in FinTech and Investment Banking, plus a background in Chemical Engineering, I enjoy solving complex challenges within organisations and collaborating with clients and stakeholders using quantitative approaches. I am a holder of the [Investment Management Certificate (IMC)](https://www.cfauk.org/study/imc), which equipped me with the knowledge required in Finance.
+
+      I enjoy working in an environment with a steep learning curve, where it is evident in my front-end development skills obtained during my role as a Data Governance Analyst. I have also pursued multiple qualifications and foreign language studies (German & Polish) outside of work and university. I also have an international background, having worked in both London and Hong Kong.
+
+      Please feel free to reach out via Linkedin Messaging.
+
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: MEng in Chemical Engineering
+      university: Imperial College London, United Kingdom
+      time: 2012 - 2016
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        # Describe your study here lorem ipsum dolor sit amet, consectetuer
+        # adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        # sociis natoque penatibus et magnis dis parturient montes, nascetur
+        # ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        # pretium quis, sem.
+        #   - Bullet point
+        #   - Bullet point
+
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Product Manager & Knowledge Engineer
+      time: Mar 2019 - Present
+      company: Droit, London
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        Found in 2012, Droit Financial Technologies is an innovative technology company at the forefront of computational law and automated decision-making. The featured products include an award-winning platform that provides mission-critical, low-latency services for different complex financial institutions.
+          - Product Management (Agile) of Annotator Library
+          - Client and stakeholder management for software integration and delivery
+          - Research and Analyse financial regulations from multiple jurisdictions to create machine-readable logic
+          - Create and configure logic using Clojure and Groovy framework
+          - Create UX Design for new software interface using Figma
+    - role: Data Governance Analyst (Associate)
+      time: Mar 2017 - Mar 2019
+      company: Deutsche Bank, London
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
+        After gaining experience in Data Governance, I understand the importance of proper management of data for companies to fully benefit from the potential of their large amount of data for data analytics. It is also important to implement a process and tool that is 'fit-for-purpose' in the organisation and communicate the strategy to the wider organisation through detailed and tailor-made demos and guides. 
+          - Product Manager and Front-end developer of ‘Data Council Portal’ (Angular-TS based portal)
+          - Business requirements gathering and stakeholder management with senior front-office business functions
+          - Change Management Process implementation in Data Governance remit
+          - Implementation & Demonstration of Data Governance Tool (Collibra) and processes to business users
+          - Project Management and Rollout for cybersecurity project with senior management
+          - Data Analysis, UX Design & Process Modelling for Data Governance tools
+    - role: Graduate Analyst
       time: 2012 - 2014
-      company: Amazon, London
+      company: Deutsche Bank, London
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        I joined Deutsche Bank in 2016 through the Graduate Training Programme. The one-year programme consisted of two rotations that allowed me to attain experience in different business areas. Through building a strong network in and beyond the graduate class, I participated as a UX designer in a [global Hackathon](https://www.db.com/unitedkingdom/content/en/3177.html) in November 2016 with multiple talented individuals. [We won the competition](https://www.finextra.com/pressarticle/67065/diary-app-for-autism-wins-24-hour-deutsche-bank-and-autistica-hackathon) and the application prototype that aimed to improve quality of life for autistic teenagers was passed on to Autistica.
+        My responsibilities in Strategy 2020 Core Services team included:
+          - Gathered information and drafted presentations, speakers' notes and reports for senior management including board members
+          - Designed reporting for senior management on technology transformation programme
+          - Analysed and implemented dependency management process in Strategy 2020 portfolio
+    - role: Summer Student
+      time: Sep 2015
+      company: Angela Ho & Associates (in association with McMillan LLP)
+      details: |
+        Having attended law summer school at London School of Economics, I have decided to undertake a work experience in a law firm specialising in Corporate Law practice. The experience enhanced my understanding of legal practice in the corporate world and prepared me for regulatory-driven projects in the future.
+          - Observed corporate law practice in the firm
+          - Worked closely with solicitors in the firm to attain experience in handling legal documents
+          - Attended client meetngs with solicitors
+          - Conducted research for IPO information and performed translation (Chinese to English) tasks for IPO Prospectus
+    - role: Summer Student
+      time: Jun 2015 - Aug 2015
+      company: Deutsche Bank, London
+      details: |
+        In my penultimate year in university, I decided to look beyond the Chemical Engineering industry and therefore applied to the Group Technology & Operations in Deutsche Bank to gain experience in the financial and technology sector. It was eye-opening as it was my first corporate internship, and I have gained professional skills such as project management and presentation skills from my supportive colleagues. I have also made use of this opportunity to expand my professional network by performing desk shadowing with people across divisions in the bank.
+          - 9-week Internship as Summer Analyst at Group Technology & Operations with Project Management role in Clearing Technology
+          - Project Management skills obtained by preparations of project artefacts
+          - Worked closely with Project Managers and Business Analysts in collateral management team in response to regulatory changes
+          - Performed Budget Forecasting tasks
+    - role: Summer Placement
+      time: Jul 2014 - Aug 2014
+      company: Undergraduate Research Opportunities Programme, Imperial College London
+      details: |
+        Project Summary: Individual Computational Analysis of ultrasound data in common carotid artery using MATLAB
+        I worked at [Professor Xiao Yun Xu](https://www.imperial.ac.uk/people/yun.xu)'s laboratory at the Department of Chemical Engineering, Imperial College London as a summer placement student. I was also very lucky to be one of the recipients of the Faculty of Engineering UROP Award, which has sponsored my placement. It was an immensely humbling experience as it was my first ever experience in carrying out an individual research project. I was also very fortunate to be able to collaborate and receive support from academics in University of Florence and Imperial College London. It helped me to understand the importance of problem-solving in a logical and quantitative manner while maintaining optimism when there were obstacles.
+          - Aim of project: to determine changes in blood rheological properties and blood flow conditions with age in healthy volunteers using data acquired as part of a 12-year follow-up study
+          - Using MATLAB to analyse ultrasound images to extract data on carotid vessel diameter, wall thickness, blood flow velocity and flow rate
+          - Worked with medical researcher from University of Catanzaro, Italy to understand clinical context of the computational work
+    - role: Vice-President (Public Awareness)
+      time: Jul 2013 - Jul 2014
+      company: Imperial College Public Awareness and Social Services Society (ICPASS)
+      details: |
+        I was actively involved in hosting activities and events in ICPASS as a fresher, therefore I ran for the vice-president position in order to contribute to the community while gaining leadership experience. This experience not only made me lifelong friends, but also gave me many opportunities to network with students across the UK and build a professional relationship with the Imperial College Alumni Association Hong Kong (ICAAHK). I am most proud that I was one of the founders of the Mentorship Programme that aims to bridge the relationship between current students and Imperial alumni in Hong Kong. This helps the students to start building their professional network early and foster communication between the two groups.
+        My responsibilities during the term included:
+        - Hosted events that raise public awareness among students, including regular discussions on global issues, presentations on current affairs and formal parliament-style debates
+        - Founder and coordinator of ICPASS & ICAAHK Mentorship Programme
+          - Aim of programme: to bridge the relationship between current students and Imperial alumni in Hong Kong. Students would have the opportunity to arrange one-to-one sessions with alumni to seek advice on careers and personal development
+          - Achieved participation of more than 50 students and the network grows larger over the years
+        - Liaised with similar societies of other universities across the UK
 projects:
     title: Projects
     intro: >

@@ -3,7 +3,7 @@
 # Site Settings
 title: Cannis Chan
 url: 'http://chancanniscwt.github.io'
-baseurl: '/cv' #change it according to your repository name
+baseurl: '/profile' #change it according to your repository name
 description: Profile of Cannis Chan
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
 theme_skin: ceramic # blue turquoise green berry orange ceramic

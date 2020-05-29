@@ -45,7 +45,7 @@ p {
     min-height: 800px;
     color: #F9DC5C;
     a {
-        color: #F9DC5C;
+        color: #FFF;
     }
     .profile-container {
         padding: 30px;
@@ -101,11 +101,13 @@ p {
         font-weight: 700;
         margin-top: 0;
         margin-bottom: 15px;
+        color: #FFF;
     }
     .degree {
         font-size: 14px;
         margin-top: 0;
         margin-bottom: 5px;
+        color: #FFF;
     }
     .education-container {
         .item {
@@ -136,6 +138,7 @@ p {
         margin-bottom: 0;
         li {
             margin-bottom: 10px;
+            color: #FFF;
             &:last-child {
                 margin-bottom: 0;
             }
@@ -146,6 +149,7 @@ p {
         margin-bottom: 0;
         li {
             margin-bottom: 10px;
+            color: #FFF;
             &:last-child {
                 margin-bottom: 0;
             }

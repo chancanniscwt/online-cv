@@ -41,7 +41,7 @@ sidebar:
         level: Elementary Proficiency
 
     interests:
-      - item: Wines & Spirits (WSET Level 3 in Wine & WSET Level 3 in Sake)
+      - item: Wines & Spirits (Currently pursuing WSET Diploma; Obtained WSET Level 3 in Wine & WSET Level 3 in Sake)
         link: https://www.instagram.com/nerdcafe/
 
       - item: Sourdough Baking
@@ -50,10 +50,10 @@ sidebar:
 career-profile:
     title: Summary
     summary: |
-      I am currently a Knowledge Engineer (Product Development) at Droit Financial Technologies, LLC.
-      With 3 years of experience in FinTech and Investment Banking, plus a background in Chemical Engineering, I enjoy solving complex challenges within organisations and collaborating with clients and stakeholders using quantitative approaches. I am a holder of the [Investment Management Certificate (IMC)](https://www.cfauk.org/study/imc), which equipped me with the knowledge required in Finance.
+      I am currently a Product Manager at Droit Financial Technologies, LLC.
+      With 4 years of experience in FinTech and Investment Banking, plus a background in Chemical Engineering, I enjoy solving complex challenges within organisations and collaborating with clients and stakeholders using quantitative approaches. I am a holder of the [Investment Management Certificate (IMC)](https://www.cfauk.org/study/imc), which equipped me with the knowledge required in Finance.
 
-      I enjoy working in an environment with a steep learning curve, where it is evident in my front-end development skills obtained during my role as a Data Governance Analyst. I have also pursued multiple qualifications and foreign language studies (German & Polish) outside of work and university. I also have an international background, having worked in both London and Hong Kong.
+      I enjoy working in an environment with a steep learning curve, where it is evident in my front-end development skills obtained during my role as a Data Governance Analyst. I have also pursued multiple qualifications and foreign language studies (German & Polish) outside of work and university. I have an international background, having worked in both London and Hong Kong.
 
       Please feel free to reach out via Linkedin Messaging.
 
@@ -86,7 +86,7 @@ experiences:
       company: Droit, London
       details: |
         Found in 2012, Droit Financial Technologies is an innovative technology company at the forefront of computational law and automated decision-making. The featured products include an award-winning platform that provides mission-critical, low-latency services for different complex financial institutions.
-          - Product Management (Agile) of Internal Product
+          - Product Management (Agile) of Digital Law Library
           - Client and stakeholder management for software integration and delivery
           - Research and Analyse financial regulations from multiple jurisdictions to create machine-readable logic
           - Create and configure logic using Clojure and Groovy framework
